@@ -1,9 +1,9 @@
 [{
-    "users":{[
+    "users":[{
         "username": "surya@gmail.com",
         "password": "Surya@123"
-             ]
-    },
+    }]
+    ,
     "visitors":[
         {
             "visitorname":"abc",
